@@ -9,7 +9,7 @@ I'm currently working as a software developer at CANAC and doing FPGA research a
 - 🚀 Learning cloud-based microservices & FPGA Design
 - 🤝 Always open to talking Hardware
 - 📧 Reach out using [this](https://www.gabrielbendix.com/contact) form
-- 🌐 Check out my [website](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)](https://www.gabrielbendix.com/)
+- 🌐 Check out my [website](https://www.gabrielbendix.com/)
 
 ---
 
