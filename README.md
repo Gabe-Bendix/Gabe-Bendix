@@ -13,7 +13,7 @@ I'm currently working as a software developer at CANAC. I enjoy combining hardwa
 
 ## 🧰 Skills
 
-<p align="center">
+<p>
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
     alt="Java"
