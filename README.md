@@ -2,7 +2,7 @@
 
 ## SWE @ CANAC | FPGA Researcher | CPE @ UF
 
-I'm currently working as a software developer at CANAC and doing FPGA research at UF. I enjoy combining hardware knowledge with modern web and AI development. I'm currently focused on building my portfolio, learning scalable backend systems, and contributing to open-source projects.
+I'm currently working as a software developer at CANAC and doing FPGA research at UF. I enjoy combining hardware knowledge with AI development and love talking about cryptography. I'm currently focused on building my portfolio, learning scalable backend systems, and contributing to open-source projects.
 
 - 🌍 I'm based in Sao Paulo, Brazil
 - 🛠️ Currently working on: [The Mira Platform](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)
