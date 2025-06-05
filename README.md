@@ -64,6 +64,12 @@ I'm currently working as a software developer at CANAC and doing FPGA research a
 
 
 ## 🌐 Socials
+<a href="https://www.linkedin.com/in/gabriel-bendix/">
+  <img
+      src="(https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)"
+      alt="Linkedin"
+      width="40"
+      style="margin: 0 8px;"
+    />
+  </a>
 
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.gabrielbendix.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
