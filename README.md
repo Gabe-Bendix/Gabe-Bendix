@@ -8,8 +8,8 @@ I'm currently working as a software developer at CANAC and doing FPGA research a
 - 🛠️ Currently working on: [The Mira Platform](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)
 - 🚀 Learning cloud-based microservices & FPGA Design
 - 🤝 Always open to talking Hardware
-- 📧 Reach out using [this](https://github.com/yourprojectlink](https://www.linkedin.com/company/canac-agro/posts/?feedView=all](https://www.gabrielbendix.com/contact) form
-- 🌐 Check out my [website](https://github.com/yourprojectlink](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)](https://www.gabrielbendix.com/)
+- 📧 Reach out using [this](https://www.gabrielbendix.com/contact) form
+- 🌐 Check out my [website](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)](https://www.gabrielbendix.com/)
 
 ---
 
