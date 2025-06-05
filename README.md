@@ -1,32 +1,32 @@
 ## Hi i'm Gabriel Bendix 👋
+<h1 align="center">Hi 👋 My name is Gabriel Bendix</h1>
 
+## Fullstack Developer | Computer Engineering Student
 
-**Computer Engineering Student | Software Developer | AI & Hardware Enthusiast**
+I'm a software developer and computer engineering student at the University of Florida. I enjoy combining hardware knowledge with modern web and AI development. I'm currently focused on building my portfolio, learning scalable backend systems, and contributing to open-source projects.
 
-I'm a computer engineering student at the University of Florida with a strong interest in software development, AI systems, and embedded hardware. I love working on fullstack web projects, experimenting with machine learning, and optimizing FPGA-based architectures.
-
-💡 I'm passionate about building tools that blend design and performance  
-🎓 I'm currently interning in Brazil working on cloud-based solutions  
-🧠 I'm learning Django, REST APIs, and BigQuery  
-🧰 I'm building a personal portfolio using Next.js and Tailwind CSS  
-🤝 I'm open to collaborating on fullstack, AI, or embedded system projects
-
----
-
-### ⚙️ Skills
-
-**Languages:** C/C++, Python, TypeScript, JavaScript  
-**Frameworks/Tools:** React, Next.js, Tailwind, Node.js, Django, Git, VHDL  
-**Hardware:** ATxmega128A1U, Vivado, FPGA, DPU integration  
-**Cloud & Data:** Google Cloud, BigQuery, REST APIs  
+- 🌍 I'm based in Brazil 🇧🇷 & Florida 🇺🇸
+- 🛠️ Currently working on: [MediConnectDigital](https://github.com/yourprojectlink)
+- 🚀 Learning cloud-based microservices & REST APIs
+- 🤝 Open to collaborating on fullstack or embedded systems projects
 
 ---
 
-### 🌐 Socials
+## 🧰 Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Website](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge)](https://www.gabrielbendix.com)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![VHDL](https://img.shields.io/badge/VHDL-0068a5?style=for-the-badge&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-> “Build with clarity. Deploy with purpose.”
+## 🌐 Socials
+
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.gabrielbendix.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
