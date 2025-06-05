@@ -2,12 +2,14 @@
 
 ## SWE @ CANAC | FPGA Researcher | CPE @ UF
 
-I'm currently working as a software developer at CANAC. I enjoy combining hardware knowledge with modern web and AI development. I'm currently focused on building my portfolio, learning scalable backend systems, and contributing to open-source projects.
+I'm currently working as a software developer at CANAC and doing FPGA research at UF. I enjoy combining hardware knowledge with modern web and AI development. I'm currently focused on building my portfolio, learning scalable backend systems, and contributing to open-source projects.
 
 - 🌍 I'm based in Sao Paulo, Brazil
-- 🛠️ Currently working on: [The Mira Platform]([https://github.com/yourprojectlink](https://www.linkedin.com/company/canac-agro/posts/?feedView=all))
-- 🚀 Learning cloud-based microservices & FPGA design and implementation
+- 🛠️ Currently working on: [The Mira Platform](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)
+- 🚀 Learning cloud-based microservices & FPGA Design
 - 🤝 Always open to talking Hardware
+- 📧 Reach out using [this](https://github.com/yourprojectlink](https://www.linkedin.com/company/canac-agro/posts/?feedView=all](https://www.gabrielbendix.com/contact) form
+- 🌐 Check out my [website](https://github.com/yourprojectlink](https://www.linkedin.com/company/canac-agro/posts/?feedView=all)](https://www.gabrielbendix.com/)
 
 ---
 
@@ -56,18 +58,7 @@ I'm currently working as a software developer at CANAC. I enjoy combining hardwa
     width="40"
     style="margin: 0 8px;"
   />
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vhdl-colored.svg"
-    alt="VHDL"
-    width="40"
-    style="margin: 0 8px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/google-cloud-colored.svg"
-    alt="Google Cloud"
-    width="40"
-    style="margin: 0 8px;"
-  />
+
 </p>
 
 
