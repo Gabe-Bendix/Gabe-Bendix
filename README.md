@@ -1,4 +1,3 @@
-## Hi i'm Gabriel Bendix 👋
 <h1 align="center">Hi 👋 My name is Gabriel Bendix</h1>
 
 ## Fullstack Developer | Computer Engineering Student
