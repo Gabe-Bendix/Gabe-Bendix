@@ -1,14 +1,13 @@
 <h1 align="center">👋 I'm Gabriel Bendix 👋</h1>
 
-## SWE @ CANAC | FPGA Researcher | CPE @ UF
+## Lead Developer @ LensLink | FPGA Researcher | CPE @ UF
 
-I just wrapped up work as a software developer at CANAC and am currently doing FPGA research at UF. I enjoy combining hardware knowledge with AI development and love talking about cryptography. I'm currently focused on building my portfolio, learning scalable backend systems, and contributing to open-source projects.
+I am currently the Lead Developer at [The Lens Link](https://thelenslink.com/), a company revolutionizing the **eyewear** industry. Aside from full-stack development, I leverage my expertise with FPGA boards and hardware acceleration to conduct part-time research within the Department of Computer Engineering at the **University of Florida**. This past summer, I worked as a SWE at [CANAC](https://www.canac.com.br/), a Brazilian **agrotech** startup that leverages data, full-stack development, and AI to make Brazil’s **sugarcane** industry the most advanced in the world. I’d love to chat about everything from **ultra-low-latency engineering** to gardening or cooking, so feel free to reach out through [this contact form](https://www.gabrielbendix.com/contact).
 
 - 🌍 I'm based in Gainesville, Florida
 - 🛠️ Currently working on blending the raw muscle of GPUs with the tailor-made efficiency of FPGAs.
 - 🚀 Learning cloud-based microservices & FPGA Design
 - 🤝 Always open to talking Hardware
-- 📧 Reach out using [this](https://www.gabrielbendix.com/contact) form
 - 🌐 Check out my [website](https://www.gabrielbendix.com/)
 
 ---
